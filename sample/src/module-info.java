@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author AKHATAVA
+ *
+ */
+module sample {
+}
